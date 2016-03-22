@@ -14,6 +14,7 @@ public class Main {
 	private static void displayGreeting() {
 		System.out.println("Hello Haapy Sales People!");
 		System.out.println("This app shows sales data");
+		System.out.println("First Commit Test");
 	}
 
 }
